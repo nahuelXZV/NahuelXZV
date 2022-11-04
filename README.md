@@ -8,7 +8,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nahuelXZV&theme=dark&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=nahuelXZV&icon=2&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
