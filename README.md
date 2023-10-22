@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, K8s, Jest**
 
-- 📫 How to reach me **zvnahuel63@gmail.com**
+- 📫 How to reach me **nahuelxzv@gmail.com**
 
 - 📄 Know about my experiences I developed a system for the School of Engineering, a virtual office for the Secretary of Tourism of Santa Cruz de la Sierra and worked as a freelance
 
